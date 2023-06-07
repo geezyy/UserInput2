@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  background-color: blue;
+}
+
+.texts{
+  width:30rem;
+  font-size:20px;
+  padding: 10px;
+}
+
+.para{
+  margin-top: 20px;
+  font-size:20px;
+}
